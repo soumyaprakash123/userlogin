@@ -8,11 +8,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'> Test User</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Arrested Development</b>
+            <b>Test User Details</b>
           </a>{' '}
-          just now.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -21,11 +19,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'>Test User 1</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Bob's Burgers</b>
+            <b>Test User Details</b>
           </a>{' '}
-          10 hours ago.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -34,11 +30,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'> Test User2</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Arrested Development</b>
+            <b>Test User2 details</b>
           </a>{' '}
-          just now.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -47,11 +41,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'>Test User 3</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>The Godfather Part 2</b>
+            <b>Test User3 details</b>
           </a>{' '}
-          yesterday.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -60,11 +52,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'>Test User 4</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Bob's Burgers</b>
+            <b>Test User4 details</b>
           </a>{' '}
-          10 hours ago.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -73,11 +63,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'> Test User 5</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Arrested Development</b>
+            <b>Test User5 details</b>
           </a>{' '}
-          just now.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -86,11 +74,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'>Test User 6</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Bob's Burgers</b>
+            <b>Test User6 details</b>
           </a>{' '}
-          10 hours ago.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -99,11 +85,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'>Test User 7</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Bob's Burgers</b>
+            <b>Test User7 details</b>
           </a>{' '}
-          10 hours ago.
         </List.Description>
       </List.Content>
     </List.Item>
@@ -112,11 +96,9 @@ const Menu = () => (
       <List.Content>
         <List.Header as='a'> Test User 8</List.Header>
         <List.Description>
-          Last seen watching{' '}
           <a>
-            <b>Arrested Development</b>
+            <b>Test User8 details</b>
           </a>{' '}
-          just now.
         </List.Description>
       </List.Content>
     </List.Item>
